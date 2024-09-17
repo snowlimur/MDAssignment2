@@ -1,0 +1,4 @@
+repository "MD Assignment 2@snowlimur@cloud"
+  path "/"
+    br "/main"
+    co "/main"
